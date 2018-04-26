@@ -1,0 +1,46 @@
+.wrapper {
+  border: 1px solid #dcdcdc;
+}
+
+.explanation {
+  color: #b7b7b7;
+  font-style: italic;
+}
+
+.change {
+  color: #9b59b6;
+}
+
+.change:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.my-5 {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.mb-3 {
+  margin-bottom: 1.5rem;
+}
+
+.pb-4 {
+  padding-bottom: 2rem;
+}
+
+.has-error .help-block {
+  color: #d9534f;
+}
+
+.has-error .control-label {
+  color: #2f2f2f;
+}
+
+.has-error .form-control {
+  border-color: #d9534f;
+}
+
+.has-error .form-control:focus {
+  border-color: #d9534f;
+}

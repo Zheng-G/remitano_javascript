@@ -1,1 +1,1 @@
-# remitano_javascript
+To start, run `npm i && npm start`
